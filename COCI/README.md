@@ -1,1 +1,1 @@
-##### Solutions to some of problems at the Croatian Open Competition in Informatics
+##### Solutions to some of problems from the Croatian Open Competition in Informatics
