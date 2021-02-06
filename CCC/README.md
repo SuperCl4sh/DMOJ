@@ -1,1 +1,1 @@
-##### Here are some of my solutions to Canadian Computing Competition offered by Waterloo University (all solutions tested on DMOJ).
+##### Here are some of my solutions to Canadian Computing Competition, organized by the University of Waterloo (all solutions tested on DMOJ).
