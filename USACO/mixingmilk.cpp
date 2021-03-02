@@ -1,5 +1,5 @@
 /*
-ID: supercl1
+ID: 
 TASK: milk
 LANG: C++                 
 */
