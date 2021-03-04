@@ -78,7 +78,7 @@ int main() {
 	digits=total(curr);
 	for (int i=1;i<=9;i++) {
 		for (int j=1;j<=(endDigits-digits)/2;j++) {
-			q.P((curr*pow(10,j)+i)+(i*pow(10,j+j-1+digits))); 
+			q.P((curr*pow(10,j)+i)+(i*pow(10,2*j-1+digits))); 
 		}
 	}
     }
