@@ -1,5 +1,5 @@
 /*
-ID: supercl1
+ID:
 TASK: castle 
 LANG: C++                 
 */
